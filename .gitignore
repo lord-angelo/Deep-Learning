@@ -1,0 +1,10 @@
+# Modelos entrenados (se descargan desde los notebooks de carga)
+*.h5
+*.keras
+
+# Datos descargados
+*.tar.gz
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
