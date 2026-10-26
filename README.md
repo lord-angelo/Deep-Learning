@@ -34,4 +34,4 @@ jupyter notebook
 
 ## Créditos
 
-Trabajos realizados en equipo (Equipo 6) para la asignatura de Deep Learning de Duoc UC, sede Concepción. Desarrollo y documentación: Angelo López.
+Proyectos desarrollados de forma individual por Angelo López para la asignatura de Deep Learning de Duoc UC, sede Concepción. El dataset de dígitos hechos a mano del proyecto 1 fue aportado por otro equipo del curso.
